@@ -28,21 +28,35 @@ In this phase that would be ongoing from the first sprint we would try to improv
 
 c)	
 •	Functional requirements:
+
 	The user should be able to login into their account.
+
 	The user should be able to check their account balance.
+
 	The user should be able to deposit checks and cash into their account.
+
 	The user should be able to withdraw cash.
+
 	The user should be able to perform any operation at any time.
 
+
 •	Interface requirements:
+
 	The interface should be easy to use for users with any background.
+
 	The contrast in the colours should be high to facilitate the task at any light condition and make the task easier for people all ages and as well disabled people.
+
 	The buttons should be big and the UI/UX design compressive and as simple as possible. 
 
+
 •	Infrastructure requirements:
+
 	The server should be hold and planned having redundancy of data and access to services at all time in mind.
+
 	The network should be encrypted and secure at times.
+
 	The server room area should be restricted to as little people as possible.
+
 	The performance and security of the system and network should be monitored at all times.
 
 d)	Use case diagram
